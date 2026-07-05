@@ -171,22 +171,7 @@ Observation: lookup time per query grows roughly with the log of history size
 of data volume because it only depends on k, not n. See
 `benchmark/benchmark_results.png` for the chart.
 
-## Team member roles
 
-| Role | Name |
-|---|---|
-| Team lead / integrator | |
-| System design lead (Chapter 23 steps owner) | |
-| Data structures lead | |
-| Algorithms lead | |
-| Backend/API developer | |
-| UI/CLI developer | |
-| Testing & QA lead | |
-| Documentation/README lead | |
-| Performance/benchmark lead | |
-| Demo/video presenter | |
-
-*(Fill in your group's names before submitting.)*
 
 ## Repository structure
 
