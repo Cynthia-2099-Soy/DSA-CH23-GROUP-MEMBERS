@@ -106,8 +106,6 @@ sort & search), with an audit stack for undo.
 
 ## How to run
 
-Requires Python 3.10+.
-
 ```bash
 # from the project root
 pip install pytest matplotlib --break-system-packages   # or use a venv
