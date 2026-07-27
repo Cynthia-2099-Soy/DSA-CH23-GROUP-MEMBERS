@@ -1,4 +1,4 @@
-# DSA-CH23-GROUP-XX -- Stock Query Server
+# DSA stock Query Server
 
 A mini stock market data system built for the Data Structures & Algorithms group
 project, following the 5-step system design process from **Chapter 23: System
