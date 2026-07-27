@@ -138,7 +138,6 @@ Top 3 losers: [EABL: +3.33%, COOP: +3.33%, KCB: +3.95%]
 Related to EQTY (depth 1): ['KCB', 'COOP']
 ```
 
-Full sample output for all 8 demo queries is produced by `python main.py`.
 
 ## Test plan
 
