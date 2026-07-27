@@ -33,7 +33,7 @@ symbols and ticks grows.
 
 ## Architecture
 
-![Architecture diagram](docs/architecture.png)<img width="1650" height="675" alt="benchmark_results" src="https://github.com/user-attachments/assets/ef5dfeab-c30c-4aa8-b1d8-ec56eef2ca0e" />
+![Architecture diagram](docs/architecture.png)<img width="1650" height="675" alt="benchmark_results" src="https://github.com/user-attachments/assets/0263e3f9-3955-4a8d-a9f2-4b59cda729c0" />
 
 
 
