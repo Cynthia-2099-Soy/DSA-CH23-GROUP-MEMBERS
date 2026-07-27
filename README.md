@@ -164,7 +164,7 @@ reference machine used for this project:
 | 10,000 | ~0.06 s | ~5.7 us | ~0.0009 s | ~0.0007 s | ~0.0002 s |
 | 100,000 | ~0.97 s | ~9.7 us | ~0.048 s | ~0.005 s | ~0.0001 s |
 
-Observation: lookup time per query grows roughly with the log of history size
+Observation we made : The  time per query grows roughly with the log of history size
 (consistent with the O(log n) binary search), while top-k stays flat regardless
 of data volume because it only depends on k, not n. See
 `benchmark/benchmark_results.png` for the chart.
