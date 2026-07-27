@@ -33,7 +33,8 @@ symbols and ticks grows.
 
 ## Architecture
 
-![Architecture diagram](docs/architecture.png)<img width="1650" height="675" 
+![Architecture diagram](docs/architecture.png)<img width="1650" height="675" alt="benchmark_results" src="https://github.com/user-attachments/assets/ef5dfeab-c30c-4aa8-b1d8-ec56eef2ca0e" />
+
 
 
 Price ticks are buffered on a FIFO **queue** before being written into
