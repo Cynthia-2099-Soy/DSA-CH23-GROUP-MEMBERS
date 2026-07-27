@@ -33,7 +33,8 @@ symbols and ticks grows.
 
 ## Architecture
 
-![Architecture diagram](docs/architecture.png)
+![Architecture diagram](docs/architecture.png)<img width="1650" height="675" alt="benchmark_results" src="https://github.com/user-attachments/assets/ab7eb695-d42e-467e-9913-10b2308eb1cf" />
+
 
 Price ticks are buffered on a FIFO **queue** before being written into
 **hash-map storage** (symbol -> sorted price history). Storage is read by four
