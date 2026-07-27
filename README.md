@@ -31,7 +31,7 @@ symbols and ticks grows.
 - 21 automated tests covering normal operation and edge cases
 - Benchmark script comparing performance at 10,000 vs 100,000 ticks
 
-## Architecture
+##  The Architecture diagram
 
 ![Architecture diagram](docs/architecture.png)<img width="1650" height="675" alt="benchmark_results" src="https://github.com/user-attachments/assets/0263e3f9-3955-4a8d-a9f2-4b59cda729c0" />
 
