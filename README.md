@@ -32,10 +32,7 @@ symbols and ticks grows.
 - Benchmark script comparing performance at 10,000 vs 100,000 ticks
 
 ##  The Architecture diagram
-
-
-
-
+<img width="1650" height="675" alt="benchmark_results" src="https://github.com/user-attachments/assets/0263e3f9-3955-4a8d-a9f2-4b59cda729c0" />
 Price ticks are buffered on a FIFO **queue** before being written into
 **hash-map storage** (symbol -> sorted price history). Storage is read by four
 independent query modules -- **rolling stats** (deque), **top movers** (heap),
